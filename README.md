@@ -1,6 +1,7 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-start-points/ruby-rspec.svg?style=svg)](https://circleci.com/gh/cyber-dojo-start-points/ruby-rspec)
+# Minimal Ruby Starter for Pairing Kata 
 
-### display_name="Ruby, RSpec"
-### image_name="[cyberdojofoundation/ruby_rspec](https://hub.docker.com/repository/docker/cyberdojofoundation/ruby_rspec)"
+To Use:
 
-![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
+- fork the repo
+- `bundle install`
+- make sure it works by running `bundle exec rspec kata_spec.rb`
